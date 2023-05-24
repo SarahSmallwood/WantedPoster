@@ -1,0 +1,49 @@
+.posterContainer{
+    border: dashed red;
+    border-width: 8px;
+    background-color: yellow;
+    height: 750px;
+    margin: 3em;
+}
+.topTitle{
+    text-decoration: underline black;
+    text-decoration: overline black;
+    font-size: 52px;
+    text-align: center;
+    margin: .5em;
+}
+.sectionOne{
+    text-align: center;
+    font-size: 28px;
+}
+.description{
+    text-align: center;
+    border: solid black;
+    margin: 1em;
+}
+.robotpic{
+    border: solid black;
+    border-radius: 50%;
+    margin-left: 40%;
+    align-items: center;
+}
+.dsc{
+    font-size: 52px;
+    color: red;
+    text-align: center;
+    margin: 12px
+    
+     
+}
+.sectionThree{
+    border: solid black;
+    color: black;
+    margin: 1em;
+    text-align: center;
+}
+.sectionFour{
+    border-width: 6px;
+    text-align: center;
+    border: dotted green;
+    margin: .5em
+}
