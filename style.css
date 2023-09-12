@@ -1,49 +1,56 @@
 .posterContainer{
-    border: dashed red;
+    border: dashed white;
     border-width: 8px;
-    background-color: yellow;
+    background-color: black;
     height: 750px;
     margin: 3em;
 }
 .topTitle{
-    text-decoration: underline black;
-    text-decoration: overline black;
+    text-decoration: underline white;
+    text-decoration: overline white;
     font-size: 52px;
     text-align: center;
     margin: .5em;
+    color: white;
 }
 .sectionOne{
     text-align: center;
     font-size: 28px;
+    color: white;
 }
 .description{
     text-align: center;
-    border: solid black;
+    border: solid white;
     margin: 1em;
+    color: white;
 }
 .robotpic{
-    border: solid black;
+    border: solid white;
     border-radius: 50%;
-    margin-left: 40%;
-    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin-left: 35%;
 }
 .dsc{
     font-size: 52px;
-    color: red;
+    color: white;
     text-align: center;
-    margin: 12px
-    
-     
+    margin: 12px;
 }
 .sectionThree{
-    border: solid black;
-    color: black;
+    border: solid white;
+    color: white;
     margin: 1em;
     text-align: center;
 }
 .sectionFour{
     border-width: 6px;
     text-align: center;
-    border: dotted green;
-    margin: .5em
+    border: dotted white;
+    margin: .5em;
+    color: white;
+}
+.five{
+    color: red;
+    text-align: center;
 }
